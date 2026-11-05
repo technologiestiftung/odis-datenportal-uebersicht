@@ -1,11 +1,15 @@
 Datum,Titel,Art
+4.11.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Übersicht%20der%20Beschlüsse%20des%20Bezirksamts%20Steglitz-Zehlendorf' target='_blank'>Übersicht der Beschlüsse des Bezirksamts Steglitz-Zehlendorf</a>,Update
 30.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Starkregenhinweiskarte%20-%20[WMS]' target='_blank'>Starkregenhinweiskarte - [WMS]</a>,Update
 30.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Starkregenhinweiskarte%20-%20[WFS]' target='_blank'>Starkregenhinweiskarte - [WFS]</a>,Update
 30.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Starkregenhinweiskarte' target='_blank'>Starkregenhinweiskarte</a>,Update
+30.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Aufgrabeverbote%20-%20[WMS]' target='_blank'>Aufgrabeverbote - [WMS]</a>,Update
+30.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Aufgrabeverbote%20-%20[WFS]' target='_blank'>Aufgrabeverbote - [WFS]</a>,Update
 29.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Fluchtlinien%20-%20[WMS]' target='_blank'>Fluchtlinien - [WMS]</a>,Update
 29.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Fluchtlinien%20-%20[WFS]' target='_blank'>Fluchtlinien - [WFS]</a>,Update
 29.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Schornsteinfegerkehrbezirke%20-%20[WMS]' target='_blank'>Schornsteinfegerkehrbezirke - [WMS]</a>,Update
 29.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Schornsteinfegerkehrbezirke%20-%20[WFS]' target='_blank'>Schornsteinfegerkehrbezirke - [WFS]</a>,Update
+28.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Laufende%20Vorhaben%20des%20Bezirksamtes%20Reinickendorf' target='_blank'>Laufende Vorhaben des Bezirksamtes Reinickendorf</a>,Neu
 28.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/AFIS%20Berlin%20-%20[WMS]' target='_blank'>AFIS Berlin - [WMS]</a>,Neu
 28.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/AFIS%20Berlin%20-%20[WFS]' target='_blank'>AFIS Berlin - [WFS]</a>,Neu
 27.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Steuereinnahmen%20des%20Landes%20Berlin%202026' target='_blank'>Steuereinnahmen des Landes Berlin 2026</a>,Update
@@ -16,7 +20,3 @@ Datum,Titel,Art
 26.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Baumbestand%20in%20den%20Liegenschaften%20der%20Grün%20Berlin%20GmbH%20(Anlagenbäume)%20-%20[WMS]' target='_blank'>Baumbestand in den Liegenschaften der Grün Berlin GmbH (Anlagenbäume) - [WMS]</a>,Neu
 22.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Behindertenparkplätze%20-%20[WMS]' target='_blank'>Behindertenparkplätze - [WMS]</a>,Update
 22.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Behindertenparkplätze%20-%20[WFS]' target='_blank'>Behindertenparkplätze - [WFS]</a>,Update
-21.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Biomasse%20-%20[WMS]' target='_blank'>Biomasse - [WMS]</a>,Neu
-21.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Biomasse%20-%20[WFS]' target='_blank'>Biomasse - [WFS]</a>,Neu
-21.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Energieerzeugung%20-%20Kraft-Wärme-Kopplung%20(KWK)%20-%20[WMS]' target='_blank'>Energieerzeugung - Kraft-Wärme-Kopplung (KWK) - [WMS]</a>,Neu
-21.10.2026,<a style='text-decoration: underline; line-height: 1.4;color: #222' href='https://daten.berlin.de/search/node/Energieerzeugung%20-%20Kraft-Wärme-Kopplung%20(KWK)%20-%20[WFS]' target='_blank'>Energieerzeugung - Kraft-Wärme-Kopplung (KWK) - [WFS]</a>,Neu
